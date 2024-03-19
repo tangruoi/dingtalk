@@ -1,0 +1,16 @@
+{
+    "name": "lei/dingtalk",
+    "description": "钉钉老版本sdk",
+    "autoload": {
+        "psr-4": {
+            "Lei\\Dingtalk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wangtao",
+            "email": "hzwtao@outlook.com"
+        }
+    ],
+    "require": {}
+}
